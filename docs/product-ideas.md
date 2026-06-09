@@ -53,4 +53,4 @@ Costos de adquisición de clientes (Media).
 Estabilidad técnica de pagos (Baja).
 
 Prompt de Discovery utilizado
-"Actúa como un product manager senior. Tengo la siguiente idea de app: [descripción]. Por favor: (1) identifica 3 supuestos no validados, (2) sugiere 2 segmentos de usuario alternativos, (3) lista los 5 mayores riesgos de ejecución ordenados por probabilidad de ocurrencia."
+"Actúa como un product manager senior. Tengo la siguiente idea de app: Una plataforma de e-commerce móvil para la venta y personalización de artículos textiles (gorros de satín, batas, gomas para el pelo) con el objetivo de profesionalizar un taller familiar y publicar la experiencia en la Play Store. Por favor: (1) identifica 3 supuestos no validados, (2) sugiere 2 segmentos de usuario alternativos, (3) lista los 5 mayores riesgos de ejecución ordenados por probabilidad de ocurrencia."
